@@ -1,4 +1,4 @@
-- 👋 Olá, me chamo Matheus Belline da Silva
+- 👋 Olá, me chamo Matheus Belline da Silva.
 - 👀 Tenho interesse evoluir constantemente nas mais variadas linguagens de programação.
 - 🌱 No momento estou aprendendo python e buscando conhecientos relacionados a análise de dados.
 - 💞️ Busco colaborar com o desenvolvimento de projetos em potencial. 
